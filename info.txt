@@ -1,1 +1,2 @@
 Go ahead and fork this repository before cloning to your local computer! 😊
+okay now we in the secondary branch and have merged from main we now add commit and push and then we will sync back to main.
